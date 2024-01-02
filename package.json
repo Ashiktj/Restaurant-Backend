@@ -1,0 +1,15 @@
+{
+  "name": "restaurant-backend",
+  "version": "1.0.0",
+  "description": "BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ashik",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
